@@ -1,0 +1,27 @@
+#imagemCirculo {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    color:darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#bloco1{
+    font-size:40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+}
+#ciano{
+    color:darkcyan
+}
+/* #circulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} */
